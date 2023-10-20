@@ -8,3 +8,5 @@ https://www.kaggle.com/datasets/bharath011/heart-disease-classification-dataset
 age, gender, impluse, pressurehight, pressurelow, glucose, kcm, troponin
 3. Class/Label (2):  
 positive, negative
+
+![Jokes](./assets/jokes.webp)
